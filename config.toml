@@ -107,7 +107,7 @@ enableGitInfo = false
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
 
-  # Twitter username (without @). Used when a vistor shares your site on Twitter.
+  # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "divumahajan"
 
   # Diplay a logo in navigation bar rather than title (optional).
@@ -230,7 +230,7 @@ enableGitInfo = false
   #   youtube, instagram, soundcloud
   #
   #   For email icon, use "fas" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
+  #   "mailto:divya_mahajan@gatech.edu" as the link.
   #
   #   Full list: https://fontawesome.com/icons
   #

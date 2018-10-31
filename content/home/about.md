@@ -17,24 +17,27 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "Doctorate of Philosophy in Computer Science"
   institution = "Georgia Institute of Technology"
   year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master of Business Administration"
+  institution = "Georgia Institute of Technology"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Master of Science in  Electrical and Computer Engineering"
+  institution = "The University of Texas at Austin"
+  year = 2014
  
+ [[education.courses]]
+  course = "Bachelor of Technology in Electrical Engineering"
+  institution = "Indian Institute of Technology (IIT) Ropar"
+  year = 2012
+  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Divya Mahajan is a PhD candidate in the Computer Science Department at Georgia Institute of Technology where she is advised by Professor Hadi Esmaeilzadeh. She received her Bachelors (2012) in Electrical Engineering from Indian Institute of Technology Ropar, India where she was honored with the President of India Gold medal for her outstanding academic performance. Subsequently, she completed her Masters (2014) from the University of Texas, at Austin in Electrical and Computer Engineering. She joined her PhD studies in Fall 2014 and since has been a part of Alternate Computing Technologies lab which is directed by Hadi Esmaeilzadeh. Her research interests include computer architecture, microarchitecture design, and developing alternative technologies for efficient computing. She is continuously working towards designing full stack solutions and template-based architectures for accelerating Machine Learning and Deep Learning algorithms on an FPGA. Besides her primary research-area of computer architecture, she has also worked at the intersection of machine learning, hardware design, programming languages and databases. In her free time, she likes to spend time oil painting, cooking, and reading novels.

@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 7
 
 # Content.
 # Display content from the following folder.
@@ -30,9 +30,9 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 
-[[filter]]
-name = "In-RDBMS Hardware Acceleration of Advanced Analytics."
-tag = "*"
+#[[filter]]
+#name = "In-RDBMS Hardware Acceleration of Advanced Analytics."
+#tag = "*"
 #
 # [[filter]]
 #   name = "Deep Learning"

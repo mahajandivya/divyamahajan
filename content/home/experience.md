@@ -25,13 +25,8 @@ date_format = "January 2006"
   location = "Redmond, WA"
   date_start = "2018-05-05"
   date_end = "2018-08-05"
-  description = ""Worked on devising low-latency FPGA-based hardware accelerators for performing advanced analytics on semi-structured data."
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Worked on devising low-latency FPGA-based hardware accelerators for performing advanced analytics on semi-structured data."""
+
 
 [[experience]]
   title = "Professor"

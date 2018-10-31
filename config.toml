@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "Georgia Institute of Technology", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "divya[underscore]mahajan[at]gatech.edu"
@@ -108,7 +108,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "divumahajan"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

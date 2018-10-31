@@ -27,14 +27,49 @@ date_format = "January 2006"
   date_end = "2018-08-05"
   description = """Worked on devising low-latency FPGA-based hardware accelerators for performing advanced analytics on semi-structured data."""
 
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Architecture Research Intern"
+  company = "Nvidia Research"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Westford, MA"
+  date_start = "2017-05-05"
+  date_end = "2017-08-05"
+  description = """Created compiler for a high-level user interface that can program specialized hardware design languages and increase the chips customer usability."""
+  
+[[experience]]
+  title = "Research Intern"
+  company = "Microsoft Research"
+  company_url = ""
+  location = "Redmond, WA"
+  date_start = "2016-05-05"
+  date_end = "2016-07-05"
+  description = """Incorporated hardware compression techniques for better usage of memory for Deep Networks being accelerated by FPGAs."""
+  
+[[experience]]
+  title = "Design Engineer"
+  company = "Apple Inc"
+  company_url = ""
+  location = "Cupertino, CA"
+  date_start = "2015-05-05"
+  date_end = "2015-08-05"
+  description = """Contributed to the simulation framework and performance evaluation of the architecture."""
+  
+[[experience]]
+  title = "Logic Design Engineer"
+  company = "Apple Inc"
+  company_url = ""
+  location = "Cupertino, CA"
+  date_start = "2013-05-05"
+  date_end = "2013-08-05"
+  description = """Contributed to the design and implementation of architectural and design changes of the datapath contributing towards the area and power reduction."""
+  
+ [[experience]]
+  title = "Summer Intern"
+  company = "Aston University"
+  company_url = ""
+  location = "Birmingham, UK"
+  date_start = "2011-05-05"
+  date_end = "2011-07-05"
+  description = """Devised and created a wireless demonstration unit for a low cost optical fiber grating based sensor system."""
 
 +++

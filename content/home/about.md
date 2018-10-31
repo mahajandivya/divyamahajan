@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Georgia Institute of Technology"
-  year = Present
+  year = 2019
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"

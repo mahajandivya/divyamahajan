@@ -8,11 +8,11 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
+[research interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Architecture",
+    "Microarchitecture Design",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).

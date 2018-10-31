@@ -243,8 +243,8 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    mailto = "mailto:divya.mahajan@cc.gatech.edu"  
-# For a direct email link, use "mailto:test@example.org".
+    link = mailto:divya.mahajan@cc.gatech.edu 
+# For a direct email link, use "mailto:test@example.org". 
 
   [[params.social]]
     icon = "twitter"

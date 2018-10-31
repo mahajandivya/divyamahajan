@@ -243,7 +243,8 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:divya.mahajan@cc.gatech.edu"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:divya.mahajan@cc.gatech.edu"  
+# For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -266,7 +267,7 @@ enableGitInfo = false
   [[params.social]]
   icon = "cv"
   icon_pack = "ai"
-  link = "files/cv.pdf"
+  link = "static/files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

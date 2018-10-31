@@ -18,8 +18,8 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  institution = "Georgia Institute of Technology"
+  year = Present
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"

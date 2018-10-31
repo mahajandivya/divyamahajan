@@ -27,6 +27,9 @@ date_format = "January 2006"
   date_end = "2018-01-05"
   description = "Worked on devising low-latency FPGA-based hardware accelerators for performing advanced analytics on semi-structured data."
   Responsibilities include:
+  * Analyzing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]

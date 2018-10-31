@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Divya"
+title = "divya"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -243,7 +243,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = mailto:divya.mahajan@cc.gatech.edu 
+    email = "mailto:divya.mahajan@cc.gatech.edu" 
 # For a direct email link, use "mailto:test@example.org". 
 
   [[params.social]]

@@ -1,9 +1,9 @@
 +++
 title = "Memristor Based Adders"
-date = 2018-11-07T23:03:52-05:00
+date = 2014-11
 draft = false
 authors = ["Divya Mahajan", "Matheen Mussadiq", "Earl E. Swartzlander Jr"]
-publication = "*Markdown* Forty Eight Asilomar Conference on Signals, Systems and Computers, November 2014."
+publication = "*Markdown* Forty Eight Asilomar Conference on Signals, Systems and Computers."
 title = "Memristor Based Adders"
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7094661"
 

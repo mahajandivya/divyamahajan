@@ -2,7 +2,7 @@
 title = ""
 date = 2015-03-01T23:03:52-05:00
 draft = false
-authors = ["Amir Yazdanbakhsh", "Divya Mahajan", "Pejman Lotfi-Kamran", "Hadi Esmaeilzadeh"]
+authors = ["Amir Yazdanbakhsh", "**Divya Mahajan**", "Pejman Lotfi-Kamran", "Hadi Esmaeilzadeh"]
 abstract = "AxBench: A Multi-Platform Benchmark Suite for Approximate Computing, *IEEE Design and Test, Special issue on Computing in the Dark Silicon Era, May 2016.*"
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7755728"
 

@@ -3,7 +3,7 @@ title = ""
 date = 2016-06-01T23:03:52-05:00
 draft = false
 authors = ["Divya Mahajan", "Jongse Park", "Emmanuel Amaro", "Hardik Sharma", "Amir Yazdanbakhsh", "Joon Kim", "Hadi Esmailzadeh"]
-abstract = ["Towards Statistical Guarantees in Controlling Quality Tradeoffs in Approximate Acceleration, *International Symposium on Computer Architecture, June 2016.*"]
+abstract = "Towards Statistical Guarantees in Controlling Quality Tradeoffs in Approximate Acceleration, *International Symposium on Computer Architecture, June 2016.*"
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7446050"
 
 # Tags and categories

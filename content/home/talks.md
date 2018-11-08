@@ -8,7 +8,7 @@ title = "Invited Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 5
+weight = 6
 
 # Number of talks to list.
 count = 10

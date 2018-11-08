@@ -2,7 +2,7 @@
 title = ""
 date = 2015-10-01T23:03:52-05:00
 draft = false
-authors = ["Divya Mahajan", "Kartik Ramkrishnan", "Amir Yazdanbakhsh", "Rudra Jariwala", "Bradley Thwaites", "Jongse Park", "Anandhavel Nagendrakumar", "Sindhuja Sethuraman", "Nishanthi Ravindran", "Abbas Rahimi", "Hadi Esmailzadeh", "Kia Bazargan"]
+authors = ["**Divya Mahajan**", "Kartik Ramkrishnan", "Amir Yazdanbakhsh", "Rudra Jariwala", "Bradley Thwaites", "Jongse Park", "Anandhavel Nagendrakumar", "Sindhuja Sethuraman", "Nishanthi Ravindran", "Abbas Rahimi", "Hadi Esmailzadeh", "Kia Bazargan"]
 abstract = "Axilog: Abstractions for Approximate Hardware Design and Reuse. *IEEE Micro Special Issue on Alternative Computing Designs & Technologies, October 2015*."
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7310928"
 

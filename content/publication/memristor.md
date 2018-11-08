@@ -3,7 +3,7 @@ title = "Memristor Based Adders"
 date = 2014-11-07T23:03:52-05:00
 draft = false
 authors = ["Divya Mahajan", "Matheen Mussadiq", "Earl E. Swartzlander Jr"]
-publication = "Forty Eight Asilomar Conference on Signals, Systems and Computers."
+abstract = "Forty Eight Asilomar Conference on Signals, Systems and Computers."
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7094661"
 
 # Tags and categories
@@ -15,7 +15,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Forty Eight Asilomar Conference on Signals, Systems and Computers."
+ caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

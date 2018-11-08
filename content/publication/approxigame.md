@@ -1,6 +1,6 @@
 +++
 title = ""
-date = 2015-03-01T23:03:52-05:00
+date = 2016-04-01T23:03:52-05:00
 draft = false
 authors = ["Jongse Park", "Emmanuel Amaro", "Divya Mahajan", "Bradley Thwaites", "Hadi Esmailzadeh"]
 abstract = "ApproxiGame: Towards Crowd-sourcing Quality Target Determination in Approximate Computing, *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2016.*"

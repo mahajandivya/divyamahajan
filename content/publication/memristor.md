@@ -1,6 +1,6 @@
 +++
 title = "Memristor Based Adders"
-date = 2014-11
+date = 2014-11-07T23:03:52-05:00
 draft = false
 authors = ["Divya Mahajan", "Matheen Mussadiq", "Earl E. Swartzlander Jr"]
 publication = "*Markdown* Forty Eight Asilomar Conference on Signals, Systems and Computers."

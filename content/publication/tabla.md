@@ -1,6 +1,6 @@
 +++
 title = ""
-date = 2015-03-01T23:03:52-05:00
+date = 2016-03-01T23:03:52-05:00
 draft = false
 authors = ["Divya Mahajan", "Jongse Park", "Emmanuel Amaro", "Hardik Sharma", "Amir Yazdanbakhsh", "Joon Kim", "Hadi Esmailzadeh"]
 abstract = "TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning",* High-Performance Computer Architecture, March 2016*. Distinguished paper award."

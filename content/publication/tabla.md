@@ -3,7 +3,7 @@ title = ""
 date = 2016-03-01T23:03:52-05:00
 draft = false
 authors = ["**Divya Mahajan**", "Jongse Park", "Emmanuel Amaro", "Hardik Sharma", "Amir Yazdanbakhsh", "Joon Kim", "Hadi Esmailzadeh"]
-abstract = "TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning, *High-Performance Computer Architecture (**HPCA**), March 2016*. `Distinguished paper award`"
+abstract = "TABLA: A Unified Template-based Framework for Accelerating Statistical Machine Learning, *High-Performance Computer Architecture* (**HPCA**), *March 2016*. `Distinguished paper award`"
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7446050"
 
 # Tags and categories

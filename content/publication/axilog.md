@@ -1,9 +1,9 @@
 +++
-title = "Axilog: Language Support for Approximate Hardware Design"
+title = ""
 date = 2015-03-01T23:03:52-05:00
 draft = false
 authors = ["Amir Yazdanbakhsh", "Divya Mahajan", "Bradley Thwaites", "Jongse Park", "Anandhavel Nagendrakumar", "Sindhuja Sethuraman", "Kartik Ramkrishnan", "Nishanthi Ravindran", "Rudra Jariwala", "Abbas Rahimi", "Hadi Esmailzadeh", "Kia Bazargan"]
-abstract = "Design Automation and Test in Europe (DATE)."
+abstract = "Axilog: Language Support for Approximate Hardware Design. *market* Design Automation and Test in Europe (DATE)."
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7092497"
 
 # Tags and categories

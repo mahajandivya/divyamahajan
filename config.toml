@@ -7,6 +7,9 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://divyamahajan.netlify.com/"
+canonifyURLs = false
+relativeurls=true
+
 
 # Title of your site
 title = "divya"
@@ -110,13 +113,13 @@ enableGitInfo = false
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "divumahajan"
 
-  # Diplay a logo in navigation bar rather than title (optional).
+  # Display a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = ""
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "Jan, 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
 
@@ -195,7 +198,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -297,10 +300,10 @@ enableGitInfo = false
   url = "#experience"
   weight = 7
 
-#[[menu.main]]
- # name = "Talks"
- # url = "#talks"
- # weight = 8
+[[menu.main]]
+ name = "Talks"
+ url = "#talks"
+ weight = 8
 
 [[menu.main]]
   name = "Contact"

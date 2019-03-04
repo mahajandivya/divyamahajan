@@ -12,12 +12,13 @@ weight = 1
   interests = [
     "Computer Architecture",
     "Microarchitecture Design",
-    "Machine Learning"
+    "Machine Learning",
+    "Data Management Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Doctorate of Philosophy in Computer Science"
+  course = "Doctor of Philosophy in Computer Science"
   institution = "Georgia Institute of Technology"
   year = 2019
 
@@ -42,4 +43,4 @@ weight = 1
 
 Divya Mahajan is a PhD candidate in the Computer Science Department at [Georgia Institute of Technology] (https://www.gatech.edu/) where she is advised by Professor [Hadi Esmaeilzadeh](https://www.cc.gatech.edu/~hadi/). She received her Bachelors (2012) in Electrical Engineering from [Indian Institute of Technology Ropar](www.iitrpr.ac.in/), India where she was honored with the President of India Gold medal for her outstanding academic performance. Subsequently, she completed her Masters (2014) from the [University of Texas, at Austin] (https://www.utexas.edu) in Electrical and Computer Engineering. 
 
-She joined her PhD studies in Fall 2014 and since has been a part of [Alternate Computing Technologies lab](http://act-lab.org). Her research interests include computer architecture, microarchitecture design, and developing alternative technologies for efficient computing. She is continuously working towards designing full stack solutions and template-based architectures for accelerating Machine Learning and Deep Learning algorithms on an FPGA. Besides her primary research-area of computer architecture, she has also worked at the intersection of machine learning, hardware design, programming languages and databases.
+She joined her PhD studies in Fall 2014 and since has been a part of [Alternate Computing Technologies lab](http://act-lab.org). Her research interests include computer architecture, microarchitecture design, and developing alternative technologies for efficient computing. She is continuously working towards designing full stack solutions and template-based architectures for accelerating Machine Learning and Deep Learning algorithms on an FPGA. She owns the very first open-source [hardware platform](http://act-lab.org/artifacts/tabla/) for acceleration of data analytics. Besides her primary research-area of computer architecture, she has also worked at the intersection of machine learning, hardware design, programming languages and databases.
